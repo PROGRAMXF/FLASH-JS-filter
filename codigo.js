@@ -28,4 +28,10 @@ const nombres = [
   `;
 
 const cambios = nombres.filter(value => value.length < 6);
-console.log(cambios);
+
+function cambiar(){
+  document.write(cambios);
+}
+
+
+
