@@ -1,0 +1,14 @@
+body {
+  background-color: coral;
+  text-align: center;
+}
+.contenedor {
+  display: inline-block;
+}
+.btn :hover {
+  padding: 1.5%;
+  background: red;
+
+  border-radius: 20%;
+  transition: 0.1s;
+}
