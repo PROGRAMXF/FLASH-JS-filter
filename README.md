@@ -6,5 +6,6 @@ El método .filter() de javascript, permite filtrar un arreglo y crear un nuevo 
 Actualizar con F5.
 
 
-![image](https://user-images.githubusercontent.com/113071685/201551403-8262dddc-37bc-4b75-8f19-c52475c62694.png)
+![Sin título](https://user-images.githubusercontent.com/113071685/201557849-3a41b97b-007a-4c4b-83f8-68bc81aced1f.png)
+
 
